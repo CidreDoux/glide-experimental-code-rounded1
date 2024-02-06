@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "Rounded",
+    "description": "Round number to specific number",
+    "author": "William SOUCHU",
+    "params": [
+      {
+        "name": "load",
+        "displayName": "Load",
+        "type": "number"
+      },
+      {
+        "name": "rounder",
+        "displayName": "Rounder",
+        "type": "number"
+      }
+    ],
+    "result": {
+      "type": "number"
+    }
+  }
+]
